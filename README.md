@@ -1,2 +1,3 @@
 # NESMA-dMRI
-wait for some time.
+Now the matlab code is ready.
+Thank you for test it ...
